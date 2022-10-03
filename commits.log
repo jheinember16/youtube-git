@@ -1,0 +1,98 @@
+commit 006912267ee36867343cae32100e43d193521d24
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Mon Oct 3 11:55:58 2022 -0400
+
+    Agregando 2 parrafos
+
+commit 6e543842ff1487459f6ea0587fd97fbb7c7806cc
+Merge: 29c6c16 aa455ce
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Sun Oct 2 14:14:40 2022 -0400
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 29c6c16ca67b837b82f8985c02b1d4bec682101d
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Sat Oct 1 16:36:42 2022 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit aa455ce1c73fd1a4d9efac5e0b277f530b546393
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Sat Oct 1 16:36:42 2022 -0400
+
+    Agregando las estaciones del año
+
+commit 830c799543d6d67f2fe97d050bcdebf834c2aea4
+Merge: 6af7a53 4eef82b
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 23:01:01 2022 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 4eef82b4962fcb13c44a00079891df731bd8d073
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 22:47:48 2022 -0400
+
+    Agregando index.js al index.html
+
+commit 6af7a5305505107f7afe7981bb89e9806ab5cbeb
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 22:39:56 2022 -0400
+
+    Agregando style.css al index.html
+
+commit d29dfa5d370480207a66d6f044e038969d651fe6
+Merge: 2e234c2 e73272e
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 22:22:43 2022 -0400
+
+    Merge branch 'js'
+
+commit e73272e1016eed1fe071f76b8a8a132922e6fe0b
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 22:16:15 2022 -0400
+
+    Creando index.js
+
+commit 2e234c2f232ead621244cf17c0213aa41b0d5f9c
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 20:28:24 2022 -0400
+
+    Creando style.css
+
+commit 509c76370aabe98f8a88590fa128db6acc6a9514
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 16:26:14 2022 -0400
+
+    Creando  index.html
+
+commit 30e5618ed632f664b3227ec3297302b29ec3c407
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Thu Sep 29 16:08:21 2022 -0400
+
+    Ignorando archivos .exe
+
+commit 78526b86cbc2c2487dc613834044b7057ffbcf5d
+Author: Jheinember Jimenez <54987070+jheinember16@users.noreply.github.com>
+Date:   Tue Sep 27 18:22:37 2022 -0400
+
+    Creando licencia del repositorio
+
+commit 61ebe3ffe47665753df63351418c1cefadc5ea67
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Tue Sep 27 18:14:24 2022 -0400
+
+    Agregando mas contenido al README
+
+commit 1d38d4b9116e67bd26dcc8b9c20183de77eff877
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Sun Sep 25 14:50:54 2022 -0400
+
+    Agregando contenido inicial al README
+
+commit 130ce153b45524ed6d8681c92a68d9fe144cc0ad
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Sat Sep 24 23:37:27 2022 -0400
+
+    Primer commit
