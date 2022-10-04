@@ -1,3 +1,66 @@
+commit 967c07011e71ee66643c8526ad04fac853da6879
+Merge: caea47b de36329
+Author: Jheinember Jimenez <54987070+jheinember16@users.noreply.github.com>
+Date:   Tue Oct 4 11:49:57 2022 -0400
+
+    Merge pull request #2 from jheinember16/readme-stiven
+    
+    Readme stiven
+
+commit caea47b593adb899af11b2a0fc5828c7852ac119
+Merge: 61f4d17 ac4e2e2
+Author: Jheinember Jimenez <54987070+jheinember16@users.noreply.github.com>
+Date:   Tue Oct 4 11:49:32 2022 -0400
+
+    Merge pull request #1 from jheinember/main
+    
+    Mas cambios
+
+commit de36329cad1b08c7b6e8600a0ae939fcd0db9825
+Author: Stiven Jimenez <jheinember@gmail.com>
+Date:   Tue Oct 4 11:41:45 2022 -0400
+
+    Haciendo mas mejoras al README del repositorio
+
+commit ac4e2e214addbecf5338e26267c7b2654b407c5e
+Merge: 6735db0 487197d
+Author: jheinember <114972441+jheinember@users.noreply.github.com>
+Date:   Tue Oct 4 11:06:45 2022 -0400
+
+    Merge pull request #1 from jheinember16/readme-stiven
+    
+    Readme stiven
+
+commit 487197df2f497a525ad70c684027e156e35c2406
+Author: Stiven Jimenez <jheinember@gmail.com>
+Date:   Tue Oct 4 10:29:41 2022 -0400
+
+    Haciendo mejoras al README del repositorio
+
+commit 61f4d173f7a4b9bc1add02b868abafa77c6d454b
+Author: Stiven Jimenez <jheinember@gmail.com>
+Date:   Tue Oct 4 09:55:52 2022 -0400
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 6735db0dfc157d88a8abd66326257d595a33d375
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Mon Oct 3 17:15:26 2022 -0400
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 5427a09509a60efc729e9d9d15ac594832931a25
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Mon Oct 3 16:42:11 2022 -0400
+
+    v1.0.0
+
+commit e27018519962dcea5a16b2cd5596a75cee4a4e0e
+Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
+Date:   Mon Oct 3 13:04:09 2022 -0400
+
+    Respaldando logs del repositorio
+
 commit 006912267ee36867343cae32100e43d193521d24
 Author: jheinember16 <jheinemberstithjn@ufps.edu.co>
 Date:   Mon Oct 3 11:55:58 2022 -0400
